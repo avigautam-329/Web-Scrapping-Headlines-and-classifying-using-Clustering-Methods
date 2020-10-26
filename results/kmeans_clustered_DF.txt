@@ -1,0 +1,40 @@
+,label,data,x,y
+0,1,nitish kumars critics seized ads calling sign discord pm file,-0.2906094020691619,-0.109519829016435
+1,1,separate pm modi nitish kumar ads bihar polls draw opposition jibes,0.017415934729922818,-0.16297643512194035
+2,1,nda win bihar seats bjp single largest party opinion poll,-0.009379871810576404,-0.6114662547281215
+3,2,split lalu failed come clean graft charges went back old ways says nitish,-0.3162814953241197,-0.648971087417117
+4,1,nitish kumar liability bjp,-0.16456372415414247,-0.004678965305264436
+5,5,return jungle raj maoist violence nda uses fear woo bihar voters translate elect,0.6482413958293328,0.30611189057987154
+6,2,talks india us clinch defence pact satellite data,-0.20983602835924944,0.721033629258577
+7,0,india sign deal access precision data us military satellites,-0.3460669871779463,0.6452282417134314
+8,0,us secretary state mike pompeo defence secretary mark esper arrive india,0.3498706566156683,0.6106904816290873
+9,5,indiaus dialogue significance pompeo visit week us elections,-0.029279409108282774,0.3438914837745081
+10,2,ministerial dialogue india sign geospatial cooperation beca us,-0.2856402307870023,0.4538238104611354
+11,4,feeling uncomfortable three senior pdp leaders resign mehboobas remark tricolour,-0.7122262847128047,0.13939797820169741
+12,4,feeling uncomfortable suffocated pdp leaders resign mehboobas remark tricolour,-0.7062434887553256,0.168814184748806
+13,6,hurt sentiments leaders quit mehbooba muftis party remarks,-0.5929568495885253,0.3476435747890066
+14,6,hurt patriotic sentiments three leaders quit mehbooba muftis pdp,-0.5952412739236048,0.4023474798293324
+15,4,tell mehbooba bjp workers held trying hoist tricolour srinagars lal chowk,-0.6879281577807164,-0.1093288875896289
+16,3,jk bjp leads tiranga march mehbooba muftis national flag remark,-0.5015807621867714,0.10792326531390636
+17,0,lokniti survey indication political mood state change drastically course campaign pti,0.2805316067295203,0.7091075493076558
+18,5,deep dive bihar prepoll survey,0.555449796444804,0.4740918477655242
+19,1,bihar election schedule constituencywise ts go polls three phases oct nov,0.13567230898872223,-0.6628442651193063
+20,5,bihar assembly election check voting date constituency,0.39301766642622665,-0.09771493310384165
+21,5,bihar assembly election jdu retain jamalpur assembly constituency third time,0.4651211612408236,0.022372150434067078
+22,5,bihar assembly election sikandra witness tough battle congress faces ljp hams,0.1569508086286736,-0.38417033323335664
+23,5,explained ideas china main reason us presidential elections matter india,-0.051572971083487025,0.5766870313751584
+24,0,donald trump shadowed coronavirus enters final swing,0.06138210050392523,0.7530567917264122
+25,1,us polls joe biden remaking democratic coalition,-0.6193534555927647,-0.3241071051136877
+26,0,could rejected mailin ballots cost joe biden election,-0.46036240971962233,-0.49977263887248624
+27,0,world news wrap oct trump biden face third debate france begins crackdown islamism,-0.6042271731147474,-0.4593138706106039
+28,1,effigy prime minister narendra modi industrialists mukesh ambani gautam adani bathinda city tribune photo,0.7205112832678161,0.14433499861603502
+29,1,farmers burn effigies pm modi business tycoons laws,0.2215881410062165,0.3286356429587532
+30,3,controversy prime minister narendra modis effigy burnt ravan bjp sees congress hand,0.39107686435947864,0.24530033868883644
+31,5,bihar economy back rails win jp nadda,0.31319162113016397,-0.6912621453979272
+32,1,provide healing touch protesting punjab farmers rahul gandhi tells pm modi,-0.22805627976750262,-0.37527832322178956
+33,3,indous irks china kashmiris choose tiranga treachery top headlines,-0.17000379083105435,-0.7496750505539796
+34,2,fact check old image narendra modis rally revived crowd modis recent bihar rally,0.6262713762220431,-0.2726473544872831
+35,2,viral image modi go back graffiti kolkata bihar,0.4328917854353559,-0.38463925889812456
+36,2,fact check old image shared crowd yogi adityanaths recent bihar rally,0.6350132992912444,-0.3689600242268875
+37,2,old image kolkata shared antimodi graffiti displayed bihar ahead elections,0.46632711109989944,-0.4957894800950615
+38,2,go back modi photo west bengal shared bihar,0.7108851278975701,-0.08737612905895954
